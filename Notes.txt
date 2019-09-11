@@ -1,0 +1,7 @@
+Goal :
+
+Understand the purpose and usage of eace design pattern 
+
+example: In real world, we want to create only one instance of a
+class
+There 
