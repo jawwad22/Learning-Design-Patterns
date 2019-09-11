@@ -1,7 +1,18 @@
-Goal :
 
-Understand the purpose and usage of eace design pattern 
+Introduction: 
 
-example: In real world, we want to create only one instance of a
-class
-There 
+Goal
+Understand the purpose and usage of eace design pattern",
+ 
+Example:
+In real world, we want to create only one instance of a
+class.there can be only one active president of country",
+
+Type of Design Patterns
+
+1) Creational
+there are all about class instantiation or object creation,
+Creational can be divided in:
+
+a) Class Creational Patterns
+b) Object-Creational Patterns
